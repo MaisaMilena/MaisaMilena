@@ -2,6 +2,7 @@
 
 I'm Maisa, and I'm a software developer most interested in:
 - Mobile App Development
+- System design
 - Simple solutions
 - Clean code
 - User experience
