@@ -1,14 +1,24 @@
 ### Greetings 🖖
 
-I'm a software developer with about 7 years of experience. I’ve been working mostly with iOS apps using Swift but I have also worked with some full-stack apps and scripts.
+I'm Maisa, and I'm a software developer most interested in:
+- Mobile App Development
+- Simple solutions
+- Clean code
+- User experience
+- Software developer's experience
+- Tech startups
 
-I’ve worked on:
-- Apps mobile (iOS) and web (React.js, HTML + CSS, Inferno.js)
-- Games (Unity, Swift, SpriteKit, on functional programming language) and interactive scenes (one of them [awarded](https://github.com/MaisaMilena/WWDC18_Photosynthesis) by Apple)
-   - [TaelinArena](https://github.com/MaisaMilena/TaelinArena): built on Formality language
-   - [Kaelin](https://gist.github.com/MaisaMilena/895903800506c932b533d21797a242f5): built on Formality language. [Gameplay example](https://www.youtube.com/shorts/nf_uj6Dcn5g)
-- Scripts to automate tasks locally, on GitHub, and spreadsheets. Mostly Node.js, but also Python and ShellScript
-- Scripts to transform data: [images to code](https://github.com/MaisaMilena/Formality-image), [code into animations](https://github.com/MaisaMilena/Formality-Net-Animator), relational database (modeling and ETL), CoreData, etc
-- Contribution to open-source projects
-- Some posts on [Gist](https://gist.github.com/MaisaMilena) and [Medium](https://medium.com/@maisa.milena)
+I have a major degree in Information Systems (Universidade Católica de Brasília) and a specialization in iOS Development (Apple Developer Academy - Brasília). Some things I've worked on involve mobile and web applications, games, features for programming languages, building scripts to automate tasks, and technical documentation.
+
+Part of my experiences involve:
+- Swift: iOS (UIKit, SwiftUI, ViewCode, Viper, MVVM, Core Data, in-app purchase)
+- Dart: Flutter (Bloc architecture)
+- Accessibility features and user experience
+- Web3 (blockchain, NFTs, Ethereum)
+- Agile methodologies
+- Proof of Concepts (PoC) and building Minimum Viable Products (MVP)
+  
+I have experience working in small (<10 people) and big startups (+1000 people). Mostly working on product-driven and multidisciplinary teams.
+
+You can find some of my posts on [Gist](https://gist.github.com/MaisaMilena) and [Medium](https://medium.com/@maisa.milena)
 
